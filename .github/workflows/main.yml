@@ -1,0 +1,1 @@
+cd sample-app && code-oss-cloud-workstations -r --folder-uri="$PWD
